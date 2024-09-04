@@ -1,8 +1,0 @@
-name: LevelBoarder-Reloaded
-version: '1.0'
-main: org.doggy.levelboarderreloaded.LevelBoarder_Reloaded
-api-version: '1.20'
-prefix: Level=Border Plugin reloaded
-authors: [Doggy_mc]
-description: Level=Border plugin updated by doggy_mc
-website: https://youtube.com/@doggy_mc
